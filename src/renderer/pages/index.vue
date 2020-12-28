@@ -120,7 +120,7 @@ export default {
       }
     },
     toGitHub() {
-      require("electron").shell.openExternal("http://www.baidu.com");
+      require("electron").shell.openExternal("https://github.com/sqdcmk/mofish");
     },
   },
 };
